@@ -1,0 +1,13 @@
+SiteManager
+===========
+
+
+sites to monitor are in sites.json
+output if bad goes to bad.json
+
+usage
+
+python SiteManager.py
+or
+./siteManager.sh
+
